@@ -14,3 +14,13 @@ function addNumbers(a, b)
 
 var c = addNumbers(8, 9);
 console.log(c);
+
+// adding third thing, function
+
+function returnZero()
+{
+    return 0;
+}
+
+var zero = returnZero();
+console.log(zero);
